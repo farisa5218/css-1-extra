@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Protest+Riot&display=swap');
+h1
+{
+    font-family: 'Protest Riot', sans-serif;
+}
+
+.sub
+{
+    width: 250px;
+    height: 600px;
+    background-color: rgb(195, 255, 255);
+    
+}
+.main .marks .a1
+{
+    color: aliceblue;
+    width: 100px;
+    height: 30px;
+    display: inline-block;
+    background-color: #6E2594;
+    border-radius: 0px 15px 15px 0px;
+}
+.main .img
+{
+    text-align: center;
+}
+.main .link
+{
+    font-family: 'Protest Riot', sans-serif;
+    font-weight: bold;
+}
+
+.new-price
+{
+    color: red;
+}
+.old-price
+{
+    text-decoration: line-through;
+}
+.short_description
+{
+    font-weight: bold;
+}
